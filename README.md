@@ -1,2 +1,2 @@
 # git-github
-testing git
+Testing git for tutorial 
